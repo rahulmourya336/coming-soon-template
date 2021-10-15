@@ -79,7 +79,7 @@ header {
 
 .side-image {
   grid-area: side-image;
-  background-image: url("./long_image.jpg");
+  background-image: url("./assets/long_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -272,7 +272,7 @@ footer a {
 
   .side-image {
     min-height: 25rem;
-    background-image: url("./image.jpg");
+    background-image: url("./assets/image.jpg");
   }
 
   .main,

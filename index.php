@@ -18,7 +18,7 @@
     <header role="banner">
       <h1 class="visually-hidden">Base Apparel Coming Soon</h1>
       <a href="/" title="return to the homepage" id="logo">
-        <img src="logo.svg" alt="Shop NH48 Logo" />
+        <img src="./assets/logo.svg" alt="Shop NH48 Logo" />
       </a>
     </header>
     <section class="side-image"></section>
